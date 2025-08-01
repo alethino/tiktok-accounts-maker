@@ -152,7 +152,6 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 # tiktok-mass-creator-accounts
 mass registration of tik tok accounts, tik tok likes, comments, tik tok latest version
 
-
 ## tiktok API
 
 1. login to the user by email and username
